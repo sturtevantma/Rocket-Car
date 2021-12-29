@@ -1,8 +1,8 @@
 # Rocket Car Changelog
 Most recent version - v0.1.0
 ## Versions
-- [v0.1.0](#v0.1.0)
-- [v0.0.1](#v0.0.1)
+- [v0.1.0](#v010)
+- [v0.0.1](#v001)
 
 # v0.1.0
 - Fixed Movement Bugs
